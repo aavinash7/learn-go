@@ -191,6 +191,11 @@ This is it for the installation and setup of Go, let's start the course and writ
 
 # Hello World
 
+(Library)
+│
+├──(Module)
+│   ├── (Package)
+
 Let's write our first hello world program, we can start by initializing a module. For that, we can use the `go mod` command.
 
 ```bash

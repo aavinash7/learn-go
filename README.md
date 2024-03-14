@@ -62,6 +62,13 @@ Go (also known as _Golang_) is a programming language developed at Google in 200
 
 It focuses on simplicity, reliability, and efficiency. It was designed to combine the efficacy, speed, and safety of a statically typed and compiled language with the ease of programming of a dynamic language to make programming more fun again.
 
+Compile time  --> code turned to machine code.
+Runtime       --> machine code is executed.
+
+
+Statically typed   --> type checking is done at compile time.         ( need to declare the data type )
+Dynamically typed  --> type checking is done at run time.             ( no need to declare the data type )
+
 In a way, they wanted to combine the best parts of Python and C++ so that they can build reliable systems that can take advantage of multi-core processors.
 
 # Why learn Go?
